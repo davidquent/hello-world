@@ -1,3 +1,3 @@
 # hello-world
 
-here is a new python learner
+here is a new learner of python!
